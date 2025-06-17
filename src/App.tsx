@@ -72,7 +72,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-40"
           style={{
-            backgroundImage: 'url("./BG.png")',
+            backgroundImage: 'url("https://i.ibb.co/JW83rLVJ/BG.png")',
           }}
         />
         
