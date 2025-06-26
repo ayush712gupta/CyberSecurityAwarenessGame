@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import { Shield, GamepadIcon, BookOpen, Globe, LogOut } from 'lucide-react';
 import PlayChallenges from './components/PlayChallenges';
 import Quizzes from './components/Quizzes';
@@ -72,7 +72,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-40"
           style={{
-            backgroundImage: 'url("../BG.png")',
+            backgroundImage: 'url("./BG.png")',
           }}
         />
         

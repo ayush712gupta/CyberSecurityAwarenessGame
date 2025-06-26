@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ayush812gupta.github.io/CyberSecurityAwarenessGame",
+  "homepage": "https://github.com/ayush712gupta/CyberGuard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
